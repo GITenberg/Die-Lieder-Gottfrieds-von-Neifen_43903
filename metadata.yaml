@@ -1,0 +1,34 @@
+_repo: Die-Lieder-Gottfrieds-von-Neifen_43903
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Gottfried, von Neifen, active 1234-1255
+    aliases:
+    - Gotfrit, von Nifen
+    - Götfrit, von Nifen
+    - Neifen, Gottfried von
+    gutenberg_agent_id: '42466'
+    url: http://www.gutenberg.org/2009/agents/42466
+  editor:
+    agent_name: Haupt, Moriz
+    birthdate: 1808
+    deathdate: 1874
+    gutenberg_agent_id: '42465'
+    url: http://www.gutenberg.org/2009/agents/42465
+description: ''
+gutenberg_issued: '2013-10-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43903'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Poetry'
+title: Die Lieder Gottfrieds von Neifen
+url: http://www.gutenberg.org/ebooks/43903
