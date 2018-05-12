@@ -19,6 +19,8 @@ creator:
     gutenberg_agent_id: '42465'
     url: http://www.gutenberg.org/2009/agents/42465
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43903#Die-Lieder-Gottfrieds-von-Neifen
 gutenberg_issued: '2013-10-07'
 gutenberg_type: Text
 identifiers:
